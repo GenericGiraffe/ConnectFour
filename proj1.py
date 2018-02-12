@@ -1,10 +1,7 @@
 # File: proj1.py
 # Author: Blake Lewis
 # Date: 11/16/16
-# Section: 21
-# E-mail: LewisBl1@umbc.edu
 # Description: This program is a simple connect four game
-# Collaboration: Collaboration was not allowed on this assignment
 
 EMPTY = "_"
 PLAYER_1 = "x"
